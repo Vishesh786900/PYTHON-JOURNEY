@@ -29,6 +29,3 @@ Whether you are a beginner learning Python fundamentals or an intermediate devel
 - Flask (optional)
 - Pandas (optional)
 - NumPy (optional)
-├── snake-game/
-├── file-organizer/
-└── README.md
